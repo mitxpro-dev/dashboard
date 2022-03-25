@@ -23,9 +23,9 @@ body {
 
 #topSection>h2,
 main>h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 900;
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.25rem;
 }
 
 #cambridge {
@@ -39,11 +39,15 @@ main>h1 {
 }
 
 #portfolioIndex>div>div>h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
 #portfolioIndex>div>div>p {
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
+    /* font-weight: 500; */
+}
+
+footer>div>p {
     font-weight: 500;
 }
