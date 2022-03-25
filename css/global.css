@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    width: 100%;
+}
+
+#topSection {
+    max-width: 1960px;
+    flex-wrap: wrap
+}
+
+#topSection>img {
+    height: 5rem;
+}
+
+#topSection>h2,
+main>h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    letter-spacing: 0.5rem;
+}
+
+#cambridge {
+    background-color: maroon;
+    width: 100%;
+    height: fit-content;
+}
+
+#portfolioIndex {
+    max-width: 1260px;
+}
+
+#portfolioIndex>div>div>h3 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#portfolioIndex>div>div>p {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
