@@ -1,6 +1,6 @@
 # <img src='./pics/logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' width='30'> Student Dashboard Group Project
 
-***Visit Site:*** [https://mitxpro-students.github.io/dashboard/](https://mitxpro-students.github.io/dashboard/)
+***Visit Site:*** [https://mitxpro-dev.github.io/dashboard/](https://mitxpro-dev.github.io/dashboard/)
 
 >**Skills Utilized**:
 <ol>
